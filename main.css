@@ -1,0 +1,19 @@
+body{
+	background: #877;
+	text-align: center;
+}
+
+
+#matratt{
+	font-size: 100px;
+	border: 1px;
+	border-radius: 4px;
+}
+
+button{
+	color: red;
+}
+
+h1{
+	font-size: 120px;
+}

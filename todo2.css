@@ -1,0 +1,61 @@
+@charset "UTF-8";
+
+body{
+	
+	background: #077;
+	padding: 100px 620px 100px 200px;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h1:before, h1:after{
+	content: "!";
+}
+h2 {
+	border-style: solid;
+    border: 2px solid black;
+    border-radius: 4px;
+    
+}
+
+h3{
+	font-size: 100px;
+}
+body, input, button {
+	font-family: 'Lato', sans-serif;
+
+}
+
+
+
+header button {
+    background-color: #f44336;
+    padding: 10px 10px;
+    color: white;
+    text-align: center;
+}
+
+
+ul.todo {
+	float: left;
+	width: 100%;
+	margin: 0 auto;
+
+}
+
+#completed {
+	  width: 500px;
+    height: 400px;
+    padding: 50px;
+    border: 1px solid black;
+    display: inline;
+
+}
+
+
+
+
+
+
